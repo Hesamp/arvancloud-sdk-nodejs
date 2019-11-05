@@ -1,0 +1,30 @@
+{
+  "name": "arvan-panel-sdk",
+  "version": "1.0.0",
+  "description": "run some api auto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hesamp/arvanclud-sdk-nodejs.git"
+  },
+  "keywords": [
+    "arvan",
+    "arvancloud",
+    "sdk",
+    "nodejs"
+  ],
+  "author": "hesam pourghazian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hesamp/arvanclud-sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/Hesamp/arvanclud-sdk-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cron": "^1.7.2",
+    "moment": "^2.24.0"
+  }
+}
